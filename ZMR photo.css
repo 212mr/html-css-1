@@ -1,0 +1,17 @@
+h1 {font-family: sans-serif}
+body {
+    background-color: #eaf3da;
+    font-family:Papyrus;
+    color: darkslategray;
+    border-bottom: 1px solid balck;
+}
+ul{  color:red;  border:1px solid gray  }
+p{
+    font-family: Courier New, Courier, monospace;
+    color: #80477d
+}
+p.greentea{color: #21f32f
+}
+p.iceland{color: #f31fac
+}
+img{color-rendering: maroon}
