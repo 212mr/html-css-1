@@ -1,9 +1,9 @@
 h1 {font-family: sans-serif}
 body {
-    background-color: #eaf3da;
+    /* background-color: #eaf3da; */
     font-family:Papyrus;
     color: darkslategray;
-    border-bottom: 1px solid balck;
+    border-bottom: 1px solid black;
 }
 ul{  color:red;  border:1px solid gray  }
 p{
